@@ -1,0 +1,9 @@
+pandas
+numpy
+plotly
+openpyxl
+kaleido
+dash
+dash-core-components
+dash-html-components
+dash-bootstrap-components
